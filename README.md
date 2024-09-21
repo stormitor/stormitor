@@ -11,6 +11,8 @@
  title="cs" width="40" height="40"/>&nbsp;
 
 
+### My stat
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats? stormitor=vn7n24fzkq&theme=github_dark)
+<img scr="https://github-profile-summary-cards.vercel.app/api/cards/profile-details? stormitor=vn7n24fzkq&theme=github_dark"/>
+<div id="stat" allign="center">
+   <img scr="
