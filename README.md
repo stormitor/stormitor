@@ -1,5 +1,6 @@
 ### About me
 - I learning python :smile:
+- I try to work in Unity and Godot :gem:
  ### Languages and tools
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"    
  title="py" width="40" height="40"/>&nbsp; 
