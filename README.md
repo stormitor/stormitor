@@ -22,9 +22,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stormitor&theme=aura" alt=""/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stormit&theme=aura" alt="" />
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stormitor&theme=aura&locale=ru)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormitor&layout=compact&theme=aura)](https://github.com/stormitor/github-readme-stats)
  </div>
   
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=aura&background=000000)](https://git.io/streak-stats)
   
  
