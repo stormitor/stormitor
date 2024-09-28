@@ -1,3 +1,13 @@
+<div id="header" align="center">
+    <h1>Hi there, I'm Misha</h1>
+</div>
+
+<div id="social" align="center">
+    <a href="telegram-url">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+ </div>
+ 
 ### About me
 - I learning python :smile:
 - I try to work in Unity and Godot :gem:
@@ -21,10 +31,8 @@
  <div id="stat" align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stormitor&theme=aura" alt=""/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stormit&theme=aura" alt="" />
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormitor&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stormitor&theme=aura&locale=ru)](https://git.io/streak-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormitor&layout=compact&theme=aura&hide_border=true" alt="Top Langs" /></a>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=stormitor&theme=aura&hide_border=true&locale=ru" alt="GitHub Streak" /></a>
   
   
  </div>
